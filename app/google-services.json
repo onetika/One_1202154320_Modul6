@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "56685502319",
+    "firebase_url": "https://onetika1202154320modul6.firebaseio.com",
+    "project_id": "onetika1202154320modul6",
+    "storage_bucket": "onetika1202154320modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56685502319:android:740f50f5f3009197",
+        "android_client_info": {
+          "package_name": "com.example.android.onetika_1202154320_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56685502319-jo3te910f21mm6e7khfel6bnbfgv70eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.onetika_1202154320_modul6",
+            "certificate_hash": "5ea63f9c8cca5868849244b15f50375cfba39a9c"
+          }
+        },
+        {
+          "client_id": "56685502319-jvktuedabrfdvh3tvvqb423hrha87cdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWejnF0IYuwLRr2JvtVbfOuKeZ_o8Tn3M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56685502319-jvktuedabrfdvh3tvvqb423hrha87cdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
